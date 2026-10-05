@@ -1,5 +1,5 @@
 // Time-lapse prueba: guarda la app en el teléfono para que abra sin conexión.
-const CACHE = 'timelapse-prueba-v1';
+const CACHE = 'timelapse-prueba-v2';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {

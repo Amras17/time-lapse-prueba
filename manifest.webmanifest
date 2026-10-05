@@ -1,7 +1,7 @@
 {
   "name": "Time-lapse prueba",
   "short_name": "Time-lapse prueba",
-  "description": "Timelapse, larga exposición con intervalómetro y ráfaga temporizada.",
+  "description": "Timelapse, larga exposición estilo Xiaomi con enfoque bloqueado en infinito, intervalómetro y ráfaga temporizada.",
   "lang": "es",
   "id": "./",
   "start_url": "./",
